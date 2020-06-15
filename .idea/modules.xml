@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TicTacToe-MobileTesting.iml" filepath="$PROJECT_DIR$/TicTacToe-MobileTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidAppTesting3.iml" filepath="$PROJECT_DIR$/androidAppTesting3.iml" group="androidAppTesting3" />
+      <module fileurl="file://$PROJECT_DIR$/app/androidAppTesting3-app.iml" filepath="$PROJECT_DIR$/app/androidAppTesting3-app.iml" group="androidAppTesting3/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
